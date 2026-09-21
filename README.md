@@ -12,7 +12,7 @@ A lightweight client-side mod that replaces the vanilla slot highlight.
 
 ### Compatibility
 * Client-side
-* Fabric 26.2
+* Fabric 26.3
 
 ### License
 Licensed under MIT.
